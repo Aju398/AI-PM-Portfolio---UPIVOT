@@ -1,6 +1,6 @@
 # Zomato Interview Synthesis — Wk 1 Extended Exercise
 
-**Student Name:** Arjun Suresh **Batch:** \[ Batch 2\] **Date Submitted:** \[13th Aug 2026\] **GitHub file URL:** \[(https://github.com/Aju398/AI-PM-Portfolio---UPIVOT/blob/main/docs/exercises/zomato-synthesis.md)\]
+**Student Name:** Arjun Suresh **Batch:** \[ Batch 2\] **Date Submitted:** \[13th Aug 2026\] **GitHub file URL:** \[(https://github.com/Aju398/AI-PM-Portfolio---UPIVOT/blob/main/docs/exercises/zomato-synthesis.md)]
 
 ---
 
